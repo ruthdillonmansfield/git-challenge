@@ -1,12 +1,19 @@
 # Git Training for Northcoders
 
-**What am I looking for in your work?**
+**What are the important outcomes of this exercise?**
+1) You understand basic Git workflow
+2) You understand the importance of a good commit history
+3) You practice making changes to a site with HTML and CSS
 
+**What will we look for in your work?**
 1) Your Git Commit history. This is the most important part of this exercise.
 2) Your Branch history
 3) Your ability to use HTML and style it with CSS
 
-## 1 - Your task: Creating a Site
+**Remember - the website is not the most important part of this exercise, it is your git practice!**
+
+
+# 1 - Your task: Creating a Site
 
 Create a short website on a topic of your choice.
 
@@ -18,9 +25,13 @@ Your website should include:
 
 Your website should be nicely styled, but do not spend too much time doing this.
 
-**You should branch and commit your work using Git at least 6 times.**
+**You should create at least 3 branches.**
+**You should commit your work using Git at least 6 times.**
 
-## 2 - Workflow
+
+
+
+# 2 - Workflow
 
 ### CLONING
 Clone the repo onto your local machine using Git. You can find the URL in the Github repo.
