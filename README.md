@@ -1,4 +1,4 @@
-
+# Git Training for Northcoders
 
 **What am I looking for in your work?**
 
@@ -6,7 +6,21 @@
 2) Your Branch history
 3) Your ability to use HTML and style it with CSS
 
-# 1 - Workflow
+## 1 - Your task: Creating a Site
+
+Create a short website on a topic of your choice.
+
+Your website should include:
+
+- A Navbar
+- 2 Pages
+- At least 2 images
+
+Your website should be nicely styled, but do not spend too much time doing this.
+
+**You should branch and commit your work using Git at least 6 times.**
+
+## 2 - Workflow
 
 ### CLONING
 Clone the repo onto your local machine using Git. You can find the URL in the Github repo.
@@ -82,16 +96,4 @@ to update your local master.
 
 That's it. You're ready to check out on a new branch!
 
-# 2 - Your task: Creating a Site
 
-Create a short website on a topic of your choice.
-
-Your website should include:
-
-- A Navbar
-- 2 Pages
-- At least 2 images
-
-Your website should be nicely styled, but do not spend too much time doing this.
-
-**You should branch and commit your work using Git at least 6 times.**
