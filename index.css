@@ -1,0 +1,38 @@
+body {
+  background: black;
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  color: White;
+  font-family: arial;
+}
+
+
+/*
+.body {
+    max-width: 500px;
+    margin: auto;
+    background: black;
+    padding: 10px;
+    text-align: center;
+    color: White;
+    font-family: arial;
+}
+
+*/
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    text-align: center;
+}
+
+li a {
+    display: block;
+    padding: 8px;
+    background-color: white;
+}
